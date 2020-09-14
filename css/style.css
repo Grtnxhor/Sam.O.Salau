@@ -507,7 +507,7 @@ a {
 @media screen and (min-width: 320px) {
    .site-blocks-cover {
         background-image: url('../images/sam.png');
-        background-color: #09724a;
+        
     }
 }
 
