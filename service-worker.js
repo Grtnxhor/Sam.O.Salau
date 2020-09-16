@@ -1,7 +1,7 @@
 var CACHE_NAME = 'pwgen-cache';
 var urlsToCache = [
     'index.html'
-    ];
+];
 console.log('loading sw');
 
 self.addEventListener('install', function(event) {
